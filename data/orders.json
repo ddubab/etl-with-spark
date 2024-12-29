@@ -1,0 +1,702 @@
+[
+    {
+        "customer_id": 4795,
+        "order_id": 503683,
+        "order_date": "2023-06-26",
+        "order_amount": "607.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 2198,
+        "order_id": 249161,
+        "order_date": "2023-01-21",
+        "order_amount": "694.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 6956,
+        "order_id": 825425,
+        "order_date": "2024-01-01",
+        "order_amount": "719.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 6677,
+        "order_id": 371739,
+        "order_date": "2023-01-24",
+        "order_amount": "863.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 2650,
+        "order_id": 513976,
+        "order_date": "2023-04-27",
+        "order_amount": "639.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 5484,
+        "order_id": 192297,
+        "order_date": "2023-08-11",
+        "order_amount": "169.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 9970,
+        "order_id": 824263,
+        "order_date": "2023-12-05",
+        "order_amount": "199.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 2342,
+        "order_id": 507050,
+        "order_date": "2023-04-01",
+        "order_amount": "468.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 3999,
+        "order_id": 703238,
+        "order_date": "2023-03-10",
+        "order_amount": "571.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 9880,
+        "order_id": 766220,
+        "order_date": "2023-03-13",
+        "order_amount": "542.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 2024,
+        "order_id": 476398,
+        "order_date": "2023-02-25",
+        "order_amount": "314.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 9805,
+        "order_id": 307600,
+        "order_date": "2023-10-12",
+        "order_amount": "980.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 6043,
+        "order_id": 233830,
+        "order_date": "2023-05-22",
+        "order_amount": "827.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 1643,
+        "order_id": 279121,
+        "order_date": "2023-06-23",
+        "order_amount": "951.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 6680,
+        "order_id": 688870,
+        "order_date": "2023-08-03",
+        "order_amount": "251.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 9475,
+        "order_id": 671587,
+        "order_date": "2023-04-20",
+        "order_amount": "359.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 7413,
+        "order_id": 498318,
+        "order_date": "2023-11-30",
+        "order_amount": "384.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 4107,
+        "order_id": 535970,
+        "order_date": "2023-04-05",
+        "order_amount": "419.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 5561,
+        "order_id": 563499,
+        "order_date": "2023-12-19",
+        "order_amount": "739.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 2959,
+        "order_id": 698867,
+        "order_date": "2023-09-02",
+        "order_amount": "767.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 5907,
+        "order_id": 124511,
+        "order_date": "2023-04-02",
+        "order_amount": "175.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 5711,
+        "order_id": 184896,
+        "order_date": "2023-07-19",
+        "order_amount": "526.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 3729,
+        "order_id": 146226,
+        "order_date": "2023-10-09",
+        "order_amount": "683.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 6859,
+        "order_id": 964596,
+        "order_date": "2023-03-24",
+        "order_amount": "939.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 3832,
+        "order_id": 758512,
+        "order_date": "2023-05-14",
+        "order_amount": "618.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 4436,
+        "order_id": 177368,
+        "order_date": "2023-05-20",
+        "order_amount": "552.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 5152,
+        "order_id": 846692,
+        "order_date": "2023-04-01",
+        "order_amount": "940.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 2706,
+        "order_id": 401618,
+        "order_date": "2023-01-14",
+        "order_amount": "993.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 6439,
+        "order_id": 462172,
+        "order_date": "2023-01-29",
+        "order_amount": "564.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 3624,
+        "order_id": 565637,
+        "order_date": "2023-11-23",
+        "order_amount": "633.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 9073,
+        "order_id": 846576,
+        "order_date": "2023-01-12",
+        "order_amount": "881.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 8856,
+        "order_id": 104578,
+        "order_date": "2023-02-02",
+        "order_amount": "219.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 7497,
+        "order_id": 954835,
+        "order_date": "2024-01-01",
+        "order_amount": "151.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 5254,
+        "order_id": 787265,
+        "order_date": "2023-11-04",
+        "order_amount": "657.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 4753,
+        "order_id": 629182,
+        "order_date": "2023-07-18",
+        "order_amount": "493.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 9996,
+        "order_id": 737191,
+        "order_date": "2023-11-13",
+        "order_amount": "782.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 3480,
+        "order_id": 699645,
+        "order_date": "2023-01-10",
+        "order_amount": "680.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 7698,
+        "order_id": 351284,
+        "order_date": "2023-06-07",
+        "order_amount": "833.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 9940,
+        "order_id": 385097,
+        "order_date": "2023-03-04",
+        "order_amount": "372.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 2839,
+        "order_id": 398439,
+        "order_date": "2023-02-23",
+        "order_amount": "959.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 8908,
+        "order_id": 919320,
+        "order_date": "2023-09-16",
+        "order_amount": "523.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 6643,
+        "order_id": 436509,
+        "order_date": "2023-10-20",
+        "order_amount": "536.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 4147,
+        "order_id": 880189,
+        "order_date": "2023-09-22",
+        "order_amount": "113.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 6157,
+        "order_id": 459299,
+        "order_date": "2023-02-12",
+        "order_amount": "546.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 3043,
+        "order_id": 450466,
+        "order_date": "2023-05-11",
+        "order_amount": "409.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 9604,
+        "order_id": 173531,
+        "order_date": "2023-07-01",
+        "order_amount": "333.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 2291,
+        "order_id": 430089,
+        "order_date": "2023-02-21",
+        "order_amount": "471.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 2385,
+        "order_id": 511467,
+        "order_date": "2023-04-10",
+        "order_amount": "591.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 6067,
+        "order_id": 230838,
+        "order_date": "2023-05-06",
+        "order_amount": "572.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 8810,
+        "order_id": 524320,
+        "order_date": "2023-01-01",
+        "order_amount": "362.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 9137,
+        "order_id": 796174,
+        "order_date": "2023-07-05",
+        "order_amount": "738.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 2996,
+        "order_id": 209657,
+        "order_date": "2023-01-29",
+        "order_amount": "260.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 6951,
+        "order_id": 334735,
+        "order_date": "2023-06-01",
+        "order_amount": "611.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 5966,
+        "order_id": 948499,
+        "order_date": "2023-11-08",
+        "order_amount": "675.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 9736,
+        "order_id": 354426,
+        "order_date": "2023-04-20",
+        "order_amount": "204.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 4193,
+        "order_id": 760899,
+        "order_date": "2023-04-09",
+        "order_amount": "671.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 7482,
+        "order_id": 102645,
+        "order_date": "2023-11-07",
+        "order_amount": "588.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 3474,
+        "order_id": 136821,
+        "order_date": "2023-05-07",
+        "order_amount": "724.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 4721,
+        "order_id": 157543,
+        "order_date": "2023-10-01",
+        "order_amount": "743.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 5042,
+        "order_id": 772067,
+        "order_date": "2023-02-01",
+        "order_amount": "546.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 8119,
+        "order_id": 230955,
+        "order_date": "2023-01-16",
+        "order_amount": "421.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 8186,
+        "order_id": 667477,
+        "order_date": "2023-01-22",
+        "order_amount": "275.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 3895,
+        "order_id": 454810,
+        "order_date": "2023-02-23",
+        "order_amount": "541.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 4477,
+        "order_id": 392387,
+        "order_date": "2023-01-27",
+        "order_amount": "196.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 4110,
+        "order_id": 342672,
+        "order_date": "2023-05-25",
+        "order_amount": "938.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 5557,
+        "order_id": 958794,
+        "order_date": "2023-11-01",
+        "order_amount": "521.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 5685,
+        "order_id": 373254,
+        "order_date": "2023-05-16",
+        "order_amount": "934.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 5399,
+        "order_id": 857197,
+        "order_date": "2023-01-05",
+        "order_amount": "489.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 9323,
+        "order_id": 746598,
+        "order_date": "2023-10-31",
+        "order_amount": "853.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 2831,
+        "order_id": 291087,
+        "order_date": "2023-06-20",
+        "order_amount": "290.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 2971,
+        "order_id": 208148,
+        "order_date": "2023-12-17",
+        "order_amount": "184.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 7707,
+        "order_id": 246098,
+        "order_date": "2023-11-18",
+        "order_amount": "493.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 4451,
+        "order_id": 667823,
+        "order_date": "2023-02-07",
+        "order_amount": "457.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 5838,
+        "order_id": 132719,
+        "order_date": "2023-04-17",
+        "order_amount": "620.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 5813,
+        "order_id": 404216,
+        "order_date": "2023-07-22",
+        "order_amount": "104.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 8728,
+        "order_id": 204608,
+        "order_date": "2023-01-31",
+        "order_amount": "565.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 6150,
+        "order_id": 538555,
+        "order_date": "2023-06-21",
+        "order_amount": "488.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 8652,
+        "order_id": 108095,
+        "order_date": "2023-08-04",
+        "order_amount": "179.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 5683,
+        "order_id": 249510,
+        "order_date": "2023-07-26",
+        "order_amount": "415.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 6952,
+        "order_id": 454628,
+        "order_date": "2023-11-26",
+        "order_amount": "254.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 6580,
+        "order_id": 199671,
+        "order_date": "2023-09-16",
+        "order_amount": "296.00",
+        "product_name": "Smartphone"
+    },
+    {
+        "customer_id": 1104,
+        "order_id": 204719,
+        "order_date": "2023-07-15",
+        "order_amount": "360.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 3683,
+        "order_id": 742579,
+        "order_date": "2023-04-22",
+        "order_amount": "448.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 5129,
+        "order_id": 227584,
+        "order_date": "2023-02-14",
+        "order_amount": "562.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 7483,
+        "order_id": 556383,
+        "order_date": "2023-12-21",
+        "order_amount": "348.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 5832,
+        "order_id": 447451,
+        "order_date": "2023-11-04",
+        "order_amount": "543.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 7028,
+        "order_id": 196240,
+        "order_date": "2023-12-25",
+        "order_amount": "326.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 7414,
+        "order_id": 113767,
+        "order_date": "2023-07-30",
+        "order_amount": "426.00",
+        "product_name": "Laptop"
+    },
+    {
+        "customer_id": 5405,
+        "order_id": 614590,
+        "order_date": "2023-02-06",
+        "order_amount": "596.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 8363,
+        "order_id": 733043,
+        "order_date": "2023-04-05",
+        "order_amount": "654.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 6248,
+        "order_id": 412564,
+        "order_date": "2023-07-20",
+        "order_amount": "173.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 5733,
+        "order_id": 446609,
+        "order_date": "2023-07-13",
+        "order_amount": "791.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 5752,
+        "order_id": 675065,
+        "order_date": "2023-06-11",
+        "order_amount": "269.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 6244,
+        "order_id": 316489,
+        "order_date": "2023-07-14",
+        "order_amount": "136.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 5514,
+        "order_id": 514470,
+        "order_date": "2023-04-10",
+        "order_amount": "436.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 7868,
+        "order_id": 512681,
+        "order_date": "2023-11-07",
+        "order_amount": "355.00",
+        "product_name": "Monitor"
+    },
+    {
+        "customer_id": 8922,
+        "order_id": 948001,
+        "order_date": "2023-09-02",
+        "order_amount": "160.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 7853,
+        "order_id": 914563,
+        "order_date": "2023-12-16",
+        "order_amount": "222.00",
+        "product_name": "Tablet"
+    },
+    {
+        "customer_id": 3594,
+        "order_id": 444078,
+        "order_date": "2023-06-27",
+        "order_amount": "859.00",
+        "product_name": "Headphones"
+    },
+    {
+        "customer_id": 8866,
+        "order_id": 730158,
+        "order_date": "2023-10-06",
+        "order_amount": "267.00",
+        "product_name": "Tablet"
+    }
+]
